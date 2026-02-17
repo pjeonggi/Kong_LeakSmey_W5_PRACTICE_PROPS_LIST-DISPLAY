@@ -1,0 +1,2 @@
+# Kong_LeakSmey_W5_PRACTICE_PROPS_LIST-DISPLAY
+w5 homework
